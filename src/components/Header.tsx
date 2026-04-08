@@ -17,7 +17,7 @@ export default function Header() {
 
   const companyInfo = {
     name: 'A&H Enterprises',
-    phone: '+91 77800 91979',
+    phone: '+91 9654541774',
     email: 'service@ah-enterprises.biz',
     gst: 'GST: 09ACAFA3497M1ZY',
     address: 'Plot No 09, Greater Noida, Kasna',

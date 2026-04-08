@@ -32,7 +32,7 @@ export default function HomePage() {
   const heroOpacity = useTransform(scrollYProgress, [0, 0.8], [1, 0]);
 
   const companyInfo = {
-    phone: '+91 77800 91979',
+    phone: '+91 9654541774',
     email: 'service@ah-enterprises.biz',
     address:
       'Plot No 09, Greater Noida, Kasna, Near R K Public School, Gautam Buddha Nagar, UP 201310',

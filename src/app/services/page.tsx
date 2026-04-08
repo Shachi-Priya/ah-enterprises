@@ -9,7 +9,7 @@ import Link from 'next/link';
 
 export default function ServicesPage() {
   const companyInfo = {
-    phone: '+91 77800 91979',
+    phone: '+91 9654541774',
     email: 'service@ah-enterprises.biz',
   };
 
