@@ -142,7 +142,7 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="py-6 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-xs text-white/30 tracking-wider">
-            &copy; {currentYear} A&H Enterprises. All rights reserved.
+            Copyright &copy; {currentYear} A&H Enterprises. All Rights Reserved.
           </p>
           <p className="text-xs text-white/20 tracking-wider">
             Built with precision. Delivered with excellence.
